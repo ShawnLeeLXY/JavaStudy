@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSE_Study.iml" filepath="$PROJECT_DIR$/.idea/JavaSE_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringTest/SpringTest.iml" filepath="$PROJECT_DIR$/SpringTest/SpringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaTest/javaTest.iml" filepath="$PROJECT_DIR$/javaTest/javaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcTest/jdbcTest.iml" filepath="$PROJECT_DIR$/jdbcTest/jdbcTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jucTest/jucTest.iml" filepath="$PROJECT_DIR$/jucTest/jucTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
+    </modules>
+  </component>
+</project>
