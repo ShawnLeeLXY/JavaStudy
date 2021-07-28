@@ -1,6 +1,6 @@
-package testpack.set.comparable;
+package testpack.collection.comparator;
 
-public class Student implements Comparable<Student> {
+public class Student {
     private String name;
     private int age;
 
@@ -26,12 +26,5 @@ public class Student implements Comparable<Student> {
 
     public void setAge(int age) {
         this.age = age;
-    }
-
-    @Override
-    public int compareTo(Student stu) {
-        int num1 = this.age - stu.age;
-        int num2 = num1 == 0 ? this.name.compareTo(stu.name) : num1;
-        return num2; //0为表示重复
     }
 }

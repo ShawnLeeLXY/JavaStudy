@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/javaTest/javaTest.iml" filepath="$PROJECT_DIR$/javaTest/javaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbcTest/jdbcTest.iml" filepath="$PROJECT_DIR$/jdbcTest/jdbcTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jucTest/jucTest.iml" filepath="$PROJECT_DIR$/jucTest/jucTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
     </modules>
   </component>

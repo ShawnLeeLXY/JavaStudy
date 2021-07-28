@@ -1,4 +1,4 @@
-package testpack.set.comparable;
+package testpack.collection.comparable;
 
 import java.util.TreeSet;
 

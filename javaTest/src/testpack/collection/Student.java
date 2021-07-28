@@ -1,4 +1,4 @@
-package testpack.set;
+package testpack.collection;
 
 public class Student {
     private String name;

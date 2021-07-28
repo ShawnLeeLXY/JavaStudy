@@ -1,4 +1,4 @@
-package testpack.set.hashmap;
+package testpack.collection.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;

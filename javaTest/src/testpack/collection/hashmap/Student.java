@@ -1,4 +1,4 @@
-package testpack.set.hashmap;
+package testpack.collection.hashmap;
 
 public class Student {
     private String name;

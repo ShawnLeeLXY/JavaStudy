@@ -1,4 +1,4 @@
-package testpack.set;
+package testpack.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;

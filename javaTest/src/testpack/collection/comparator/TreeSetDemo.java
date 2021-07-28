@@ -1,4 +1,4 @@
-package testpack.set.comparator;
+package testpack.collection.comparator;
 
 import java.util.Comparator;
 import java.util.TreeSet;
